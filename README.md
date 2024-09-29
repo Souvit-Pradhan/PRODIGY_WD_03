@@ -1,1 +1,1 @@
-# PRODIGY_WD_03
+As part of my internship, I developed a Tic-Tac-Toe game using HTML, CSS, and JavaScript. The project involved creating an interactive and visually appealing interface that allows two players to compete against each other. I implemented game logic to determine winners, handle draws, and reset the game. This experience strengthened my skills in JavaScript programming and user interface design, while also enhancing my understanding of game mechanics and interactivity in web development.
